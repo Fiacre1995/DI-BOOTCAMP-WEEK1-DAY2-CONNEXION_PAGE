@@ -1,0 +1,90 @@
+.container {
+    width: 1500px;
+    height: 600px;
+    
+}
+.col {
+    display: inline-block;
+    width: 740px;
+    height: 700px;
+    
+}
+
+#col2 {
+    background-color: blueviolet;
+    width: 600px;
+    margin-top: 50px;
+}
+input{
+    margin-top: 20px;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(233, 233, 230);
+    color: blacks;
+}
+button {
+    margin-top: 20px;
+    background-color: blueviolet;
+    color: white;
+    width: 310px;
+    height: 30px;
+
+}
+#saisir {
+    margin-left: 350px;
+    margin-top: 150px;
+    margin-top: 50px;
+}
+h1 {
+    margin-left: 80px;
+    font-size: 4rem;
+}
+#checkboss {
+    height: 15px;
+    width: 15px;
+}
+a{
+    margin-left: 50px;
+}
+i{
+   font-size: 3rem;
+   margin-left: 20px;
+   background-color: white;
+}
+span{
+    margin-left: 100px;
+}
+#user{
+    background-color: blueviolet;
+    font-size: 8rem;
+    margin-left: 250px;
+    margin-top: 100px;
+    color: white;
+}
+b{
+    font-size: 5rem;
+    margin-top: 100px;
+    color: white;
+}
+p{
+    font-size: 20px;
+    color: white;
+    margin-left: 100px;
+}
+#register{
+    background-color: blueviolet;
+    color: black;
+    margin-left: 50px;
+    width: 2px;
+    height: 1px;
+
+}
+#bouton_register{
+    height: 60px;
+    border-radius: 30px;
+    margin-left: 200px;
+    font-size: 20px;
+    text-align: center;
+    width: 220px;
+    border-color: white;
+}
